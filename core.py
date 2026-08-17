@@ -3,7 +3,6 @@ from formats import *
 import yt_dlp
 import subprocess
 
-
 def prepare_image(img, formato):
     if img.mode in formato.modes:
         return img

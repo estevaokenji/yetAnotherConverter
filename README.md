@@ -1,32 +1,25 @@
 # Yet Another Converter
 
-Um conversor de imagens simples e gratuito, desenvolvido em Python com Pillow e Streamlit.
+Um conversor simples e gratuito, desenvolvido em Python com Pillow e Streamlit.
 
 ## ✨ Funcionalidades
 
-- 🖼️ Conversão entre diversos formatos de imagem
-- 🎞️ Suporte a imagens animadas
-- 🔄 Conversão de imagens animadas para formatos estáticos
-- 🎨 Tratamento de transparência
-- 📦 Interface web simples
+- 🖼️ Conversão de imagens
+- 🎞️ Conversão de vídeos
+- 🎵 Conversão de áudios
+- 🔊 Extração de áudios
+- 💻 Baixar vídeos do youtube
 
 ## 📁 Formatos suportados
 
-Atualmente, o Yet Another Converter trabalha com:
-
-| PNG | JPEG | WEBP | GIF | BMP | TIFF | ICO | PPM | TGA |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-> O suporte a animações ainda está em desenvolvimento e pode variar entre os formatos.
+| | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|
+| **Imagens**| PNG | JPEG | WEBP | GIF | BMP | TIFF | ICO | PPM | TGA |
+| **Áudio** | MP3 | M4A | WAV | OGG | FLAC | | | | |
+| **Vídeo** | MP4 | WEBM | MKV | AVI | MOV | FLV | WMV | | |
 
 ## 🌐 Usando online
 
 Você pode acessar o conversor diretamente pelo navegador:
 
 **[Abrir Yet Another Converter](https://yetanotherconverter.streamlit.app)**
-
-# 🛬 Atualizações futuras
-
-- 🎞️ Conversão de vídeos
-- 🎵 Conversão de músicas
-- 💻 Baixar vídeos do youtube
