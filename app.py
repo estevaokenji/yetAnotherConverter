@@ -328,8 +328,7 @@ def youtube_page():
             )
 
         except Exception as e:
-            st.error(f"Erro: Conversão não pode ser realizada: {e}")
-            print(e)
+            st.error(f"Erro: Conversão não pode ser realizada")
 
 # ============================================================
 # HOME
