@@ -9,3 +9,5 @@ env/
 
 *.tmp
 *.temp
+
+test.py

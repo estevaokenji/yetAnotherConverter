@@ -1,0 +1,50 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css');
+
+.main-title {
+    text-align: center;
+    font-size: 3.2rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 1.15rem;
+    opacity: 0.65;
+    margin-bottom: 3rem;
+}
+
+.footer {
+    position: fixed;
+    bottom: 20px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    opacity: .65;
+}
+
+button {
+    transition: all 0.2s ease;
+}
+
+button * {
+    font-size: 1.0rem !important;
+    font-weight: 600 !important;
+}
+
+button:hover {
+    transform: translateY(-3px);
+}
+
+.back-button div.stButton > button {
+    height: 45px;
+    font-size: 0.95rem;
+}
+
+div[data-baseweb="select"] {
+    border-radius: 10px;
+}
+
+section[data-testid="stFileUploader"] {
+    border-radius: 15px;
+}
